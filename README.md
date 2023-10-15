@@ -19,7 +19,7 @@
 [2,6,16,18,22,27]
 
 Selection sorted.
-Worst case - Avg case: O(n^2)
+case: O(n^2)
 
 Number 18 - Avg case: O(n^2)
 
