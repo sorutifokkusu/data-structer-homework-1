@@ -1,4 +1,3 @@
-# patika-data-structers-1 
 
 ### 0 (Input)
 [22,27,16,2,18,6]
